@@ -1,3 +1,0 @@
-bhex
-bhex
-AccessKeyId
